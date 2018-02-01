@@ -1,20 +1,21 @@
-.. gcam_vis documentation master file, created by
-   sphinx-quickstart on Wed Jan 31 14:31:46 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Contents
+=========
 
-Welcome to gcam_vis's documentation!
-====================================
-
+Introduction
+---------------
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
+   intro
+   install
+   config
+   gui
+   tutorial
 
+For PIC Users
+-------------
 
-Indices and tables
-==================
+  .. toctree::
+   :maxdepth: 1
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   pic
