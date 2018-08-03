@@ -28,6 +28,13 @@ each component has a dialog menu that can be opened by clicking the relevant tab
 
 This view shows the results of hierarchical clustering performed on the current job for all features.
 The nodes are colored based on which input feature has the greatest difference at a particular level in the tree.
+This view is explorable through pan and zoom interactions.
+The tail nodes are named based on the database file that they represent.
+Distances are labeled on parent nodes as dist: value.
+The dialog menu for this view has controls to jump from the root (head) node and to the tail (last) node.
+The dialog menu also has a legend for the input coloring.
 
+2) Cluster View
+-----------------
 
-
+.. image:: images/tutorial/analyze/cluster.png
