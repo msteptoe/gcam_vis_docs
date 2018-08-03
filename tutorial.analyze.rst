@@ -1,7 +1,7 @@
 Tutorial Analyze View
 ==================
 
-.. image:: images/tutorial/analyze/overview.png
+  .. image:: images/tutorial/analyze/overview.png
 
 Components
 -----------------
