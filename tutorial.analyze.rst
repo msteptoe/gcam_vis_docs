@@ -38,3 +38,13 @@ The dialog menu also has a legend for the input coloring.
 -----------------
 
 .. image:: images/tutorial/analyze/cluster.png
+
+3) Scatter Plot
+-----------------
+
+.. image:: images/tutorial/analyze/scatter.png
+
+4) Parallel Coordinates Plot
+-----------------------------
+
+.. image:: images/tutorial/analyze/parallel.png
